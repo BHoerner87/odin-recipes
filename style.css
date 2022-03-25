@@ -1,0 +1,49 @@
+body {
+    background-color: #FBD6D2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pageTitle {
+    text-align: center;
+    color:#F190B7
+}
+
+.myLink {
+    color:#CE49BF;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.centeredImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #CE49BF;
+}
+
+h3 {
+    color:#A63EC5
+}
+
+a:link {
+    color: white;
+}
+
+a:active{
+    color: white
+}
+
+a:visited {
+    color: #A63EC5;
+}
+
+p {
+    color: #CE49BF;
+}
+
+li {
+    color: #CE49BF;
+}

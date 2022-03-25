@@ -22,6 +22,7 @@ body {
 
 h1 {
     color: #CE49BF;
+    font-size: 48px;
 }
 
 h3 {
@@ -29,7 +30,7 @@ h3 {
 }
 
 a:link {
-    color: white;
+    color: #A63EC5;
 }
 
 a:active{
